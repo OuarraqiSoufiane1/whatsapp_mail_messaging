@@ -12,17 +12,17 @@ Configuration
 
 Company
 -------
-* `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* `ouatech Techno Solutions <https://ouatech.com/>`__
 
 Credits
 -------
-* Developers:	Nishad@cybrosys
-                version 14: Sayooj A O @cybrosys
+* Developers:	ouarraqi@ouatech
+                version 14: ouatech
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
-* Website : https://cybrosys.com
+* Mail Contact : contact@ouatech.com
+* Website : https://ouatech.com
 
 Bug Tracker
 -----------
@@ -30,12 +30,12 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
+.. image:: https://ouatech.com/images/logo.png
+   :target: https://ouatech.com
 
 This module is maintained by Cybrosys Technologies.
 
-For support and more information, please visit `Our Website <https://cybrosys.com/>`__
+For support and more information, please visit `Our Website <https://ouatech.com/>`__
 
 Further information
 ===================
