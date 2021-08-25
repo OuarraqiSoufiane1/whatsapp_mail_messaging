@@ -33,7 +33,7 @@ Maintainer
 .. image:: https://ouatech.com/images/logo.png
    :target: https://ouatech.com
 
-This module is maintained by Cybrosys Technologies.
+This module is maintained by ouatech Technologies.
 
 For support and more information, please visit `Our Website <https://ouatech.com/>`__
 
